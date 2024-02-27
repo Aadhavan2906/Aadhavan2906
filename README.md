@@ -1,7 +1,7 @@
-
-
-<!--<h1 align="center">Hi 👋, I'm S.Aadhavan</h1>-->
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gr…o-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4gfjxlv50nh5ruccwcn5.png" width="1000" height="420">slot![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!--<h1 align="center">Hi 👋, I'm B.Aadhavan</h1>-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aadhavan+🚀...+!;" />
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhavan2906&label=Profile%20views&color=0e75b6&style=flat" alt="aadhavan2906" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhavan2906" alt="aadhavan2906" /></a> </p>
