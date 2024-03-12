@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.tenor.com/m/CBOjsCUCFOUAAAAC/jhonny-sins-reyiz-wink.gif)
 <!--<h1 align="center">Hi 👋, I'm Transgender Hire me as your wife</h1>-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aravani+and+Iam+Pusy+🚀...+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Available+at+work+from+home🚀...+!;" />
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhavan2906&label=Profile%20views&color=0e75b6&style=flat" alt="aadhavan2906" /> </p>
 
